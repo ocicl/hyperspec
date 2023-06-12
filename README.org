@@ -1,0 +1,10 @@
+* hyperspec
+
+Programmatic index to the common lisp hyperspec
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/hyperspec.git   |
+| commit  | 00b60c6  |
+| systems | hyperspec |
+|---------+-------------------------------------------|
+

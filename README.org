@@ -8,4 +8,4 @@ Programmatic index to the common lisp hyperspec
 | systems | hyperspec |
 |---------+-------------------------------------------|
 
- 
+  
